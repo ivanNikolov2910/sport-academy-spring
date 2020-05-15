@@ -1,1 +1,0 @@
-# sport-academy-spring
